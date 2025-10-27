@@ -1,0 +1,192 @@
+{
+  "compulsoryItems": {
+    "breakfast": "Bread, Butter, Jam, Milk, Sugar, Cornflakes, sprouts-boiled chana with onions, tomatoes keera, Bournvita, Tea, Coffee",
+    "lunch": "Butter Chapati, Green Salad, Pickle",
+    "snacks": "Tea, Coffee",
+    "dinner": "Butter / Ghee Chapati, Green Salad, Pickle"
+  },
+  "menu": {
+    "Monday": {
+      "common": {
+        "breakfast": "Poha (Aalo/Sev) & Jalebi",
+        "lunch": "Plain rice, Masoor Dal, Aloo Palak Dry, Veg-Malai Kofta, Fruits (3 types)",
+        "snacks": "Samossa / Bread Pakoda, (Red/Green) Chutney",
+        "dinner": "Plain rice, Mix Dal, Lauki Chana / Aloo Bhujia"
+      },
+      "veg": {
+        "breakfast": "Banana (2)",
+        "lunch": "-",
+        "snacks": "-",
+        "dinner": "(Shahi / Matar) Paneer"
+      },
+      "nonveg": {
+        "breakfast": "Boiled Egg (2)",
+        "lunch": "-",
+        "snacks": "-",
+        "dinner": "Aloo Biryani + Egg"
+      },
+      "jain": {
+        "breakfast": "Banana (2)",
+        "lunch": "Veg Kofta",
+        "snacks": "-",
+        "dinner": "Lauki Tamatar"
+      }
+    },
+    "Tuesday": {
+      "common": {
+        "breakfast": "Khasta Poori & Aalo Chana Sabji",
+        "lunch": "Jeera Rice, Dal Makhani, Aalo-Baigan, Nutri Matar, Plain Curd",
+        "snacks": "Grilled Aloo Sandwich / Veg Sandwich, Ketchup",
+        "dinner": "Veg Khichdi, Veg Dal (Masoor - Peas, Carrot, Beans), Crispy Aalo chokha"
+      },
+      "veg": {
+        "breakfast": "-",
+        "lunch": "-",
+        "snacks": "-",
+        "dinner": "-"
+      },
+      "nonveg": {
+        "breakfast": "-",
+        "lunch": "-",
+        "snacks": "-",
+        "dinner": "-"
+      },
+      "jain": {
+        "breakfast": "-",
+        "lunch": "Taroi",
+        "snacks": "-",
+        "dinner": "Chole, kaddu"
+      }
+    },
+    "Wednesday": {
+      "common": {
+        "breakfast": "Normal Idli with Fried Idli, Sambhar, Coconut Chutney, Tomato Chutney",
+        "lunch": "Plain Rice, Panchratni Dal, Achari Aloo, Kadhi Pakoda, Lemon Juice",
+        "snacks": "Aloo Tikki Chat, Matar, Chutney (Red/Green)",
+        "dinner": "Mix Dal, Rasgulla, (Boondi / Fry), Boondi Raita"
+      },
+      "veg": {
+        "breakfast": "Banana (2)",
+        "lunch": "-",
+        "snacks": "-",
+        "dinner": "Veg Biryani, Soya Chaap"
+      },
+      "nonveg": {
+        "breakfast": "Boiled Egg (2)",
+        "lunch": "-",
+        "snacks": "-",
+        "dinner": "Chicken Biryani"
+      },
+      "jain": {
+        "breakfast": "Banana (2)",
+        "lunch": "Kaccha Kela",
+        "snacks": "-",
+        "dinner": "Soya Chap"
+      }
+    },
+    "Thursday": {
+      "common": {
+        "breakfast": "Upma & Daliya",
+        "lunch": "Plain Rice, Dal Fry, Fry Kala Chana, Mix Bharta / Mix Veg Kofta, Fruits (3 types)",
+        "snacks": "Noodles/Maggie, Ketchup",
+        "dinner": "Jeera Rice, Rajma Masala, Aloo Soyabean, Mix Veg, Besan Chakki"
+      },
+      "veg": {
+        "breakfast": "-",
+        "lunch": "-",
+        "snacks": "-",
+        "dinner": "-"
+      },
+      "nonveg": {
+        "breakfast": "-",
+        "lunch": "-",
+        "snacks": "-",
+        "dinner": "-"
+      },
+      "jain": {
+        "breakfast": "-",
+        "lunch": "Papad sabji / veg",
+        "snacks": "-",
+        "dinner": "-"
+      }
+    },
+    "Friday": {
+      "common": {
+        "breakfast": "Masala Dosa, Sambhar, Coconut Chutney",
+        "lunch": "Fried Rice, Chana Dal, Veg Manchurian, Mix Veg, Masala Chaas",
+        "snacks": "Pav Bhaji / Vada Pav, Chopped Onion, Green chutney, Red Chutney",
+        "dinner": "Plain rice, Arhar Moong Dal, Kaccha Kela"
+      },
+      "veg": {
+        "breakfast": "Banana (2)",
+        "lunch": "-",
+        "snacks": "-",
+        "dinner": "Palak Paneer / Paneer"
+      },
+      "nonveg": {
+        "breakfast": "Boiled Egg (2)",
+        "lunch": "-",
+        "snacks": "-",
+        "dinner": "Fish Masala / Egg"
+      },
+      "jain": {
+        "breakfast": "Banana (2)",
+        "lunch": "-",
+        "snacks": "-",
+        "dinner": "Shimla Matar"
+      }
+    },
+    "Saturday": {
+      "common": {
+        "breakfast": "Aloo Pyaz Paratha, Curd, pickle",
+        "lunch": "Khichdi, Dal Tadka, Mix Veg, Aloo Matar/Dry Aloo, Papad (Masala/Rice) - Any 1, Veg",
+        "snacks": "Kachori with chutney",
+        "dinner": "Plain rice, Urad Dal, Chole & Bhature, Aalo-Jeera, Ice Cream (Alphonso Mango / ButterScotch / Strawberry / Vanilla)"
+      },
+      "veg": {
+        "breakfast": "-",
+        "lunch": "-",
+        "snacks": "-",
+        "dinner": "-"
+      },
+      "nonveg": {
+        "breakfast": "",
+        "lunch": "-",
+        "snacks": "-",
+        "dinner": "-"
+      },
+      "jain": {
+        "breakfast": "Matar Paratha",
+        "lunch": "Shimla Tamatar",
+        "snacks": "-",
+        "dinner": "-"
+      }
+    },
+    "Sunday": {
+      "common": {
+        "breakfast": "Uttapam, Sambhar, Coconut Chutney",
+        "lunch": "Veg Pulao, Amritsari Dal, Navratna Korma, Crispy Potato, Lassi",
+        "snacks": "Pani Puri with Mashed Masala Aloo and Chana",
+        "dinner": "Tandoori Roti, Jeera rice, Moong-Masoor Dal, Kaddu Masala, Gulab Jamun / Butterscotch Custard"
+      },
+      "veg": {
+        "breakfast": "Banana (2)",
+        "lunch": "-",
+        "snacks": "-",
+        "dinner": "Kadhai Paneer / Paneer Bhurji"
+      },
+      "nonveg": {
+        "breakfast": "Boiled Egg (2)",
+        "lunch": "-",
+        "snacks": "-",
+        "dinner": "Kadhai Chicken / Chicken do-Pyaza"
+      },
+      "jain": {
+        "breakfast": "Banana (2)",
+        "lunch": "-",
+        "snacks": "-",
+        "dinner": "-"
+      }
+    }
+  }
+}
